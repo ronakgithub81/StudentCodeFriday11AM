@@ -8,6 +8,7 @@ public class StudentDemo
   private String name;
   private String program;
   private String demo;
+  private String changes;
   //adding some comment
   //adding some more comment
   /**
